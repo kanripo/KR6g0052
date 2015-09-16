@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:15.863079
+#+DATE: 2015-08-30 20:05:16.901588
 #+TITLE: 涅槃經本有今無偈論
 #+PROPERTY: CBETA_ID T26n1528
 #+PROPERTY: ID KR6g0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1528
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0052_T_000-0281a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0052_T_001-0281a> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1528¶
-
- 涅槃經本有今無偈論一卷¶
+No. 1528¶
+涅槃經本有今無偈論一卷¶
 ¶
 天親菩薩造¶
 陳世真諦三藏於廣州譯¶
