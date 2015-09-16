@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 涅槃經本有今無偈論
+#+DATE: 2015-08-30 20:05:16.074666
+#+PROPERTY: JUAN 0
